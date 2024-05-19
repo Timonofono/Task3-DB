@@ -1,0 +1,219 @@
+<mxfile host="app.diagrams.net" modified="2024-05-19T12:28:42.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="1Z7rTHZq9zvQoCp20Fph" version="24.4.4" type="device" pages="2">
+  <diagram name="Автобусные остановки и достопримечательности на них" id="VE9fQW2GGmqCkDkTgluT">
+    <mxGraphModel dx="1008" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-1" value="Нарочанская" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-2" value="Университет физкультуры" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gk4gvXFLaNF_-KroWZaC-3" target="gk4gvXFLaNF_-KroWZaC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-3" value="Комсомольское озеро" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-4" value="Замчище" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-5" value="Ленина" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="239.5" as="sourcePoint" />
+            <mxPoint x="200" y="239.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="239.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="239.5" as="sourcePoint" />
+            <mxPoint x="360" y="239.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="239.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="239.5" as="sourcePoint" />
+            <mxPoint x="520" y="239.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="239.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="239.5" as="sourcePoint" />
+            <mxPoint x="680" y="239.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="239.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-11" value="Музей ВОВ" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk4gvXFLaNF_-KroWZaC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.12" y="280.00000000000006" as="sourcePoint" />
+            <mxPoint x="400.88" y="358.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-13" value="Собор сошествия Св. Духа" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk4gvXFLaNF_-KroWZaC-4" target="gk4gvXFLaNF_-KroWZaC-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="281" as="sourcePoint" />
+            <mxPoint x="560.88" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gk4gvXFLaNF_-KroWZaC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="360" as="sourcePoint" />
+            <mxPoint x="720" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-17" value="Красный Кастёл" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-19" value="Статуя Ленина" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk4gvXFLaNF_-KroWZaC-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="gk4gvXFLaNF_-KroWZaC-5" target="gk4gvXFLaNF_-KroWZaC-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="170" as="sourcePoint" />
+            <mxPoint x="730" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hNG9teYfkXCvBOqIiDhB" name="Станции метро и достопримечательности на них">
+    <mxGraphModel dx="1008" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-1" value="Малі́наўка" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-2" value="Пятро́ўшчына" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-3" value="Пло́шча Ле́ніна" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-4" value="Кастры́чніцкая" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-5" value="Пло́шча Яку́ба Ко́ласа" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-6" value="Акадэ́мія наву́к" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-7" value="Усхо́д" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-1" target="41P49eDQ0XiQNy2Eedqv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-2" target="41P49eDQ0XiQNy2Eedqv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-3" target="41P49eDQ0XiQNy2Eedqv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-4" target="41P49eDQ0XiQNy2Eedqv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-5" target="41P49eDQ0XiQNy2Eedqv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-6" target="41P49eDQ0XiQNy2Eedqv-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-14" value="Национальная библиотека" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="360" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-15" value="Национальная академия наук" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="130" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-16" value="Статуя Якуба Коласа" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="360" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-18" value="Театр Янки Купалы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="130" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-19" value="Статуя Ленина" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="360" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-20" value="Красный костёл" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="130" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-3" target="41P49eDQ0XiQNy2Eedqv-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-3" target="41P49eDQ0XiQNy2Eedqv-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-4" target="41P49eDQ0XiQNy2Eedqv-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-5" target="41P49eDQ0XiQNy2Eedqv-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-7" target="41P49eDQ0XiQNy2Eedqv-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41P49eDQ0XiQNy2Eedqv-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="41P49eDQ0XiQNy2Eedqv-6" target="41P49eDQ0XiQNy2Eedqv-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
